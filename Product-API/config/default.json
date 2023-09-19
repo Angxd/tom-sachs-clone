@@ -1,3 +1,3 @@
 {
-  "serverMongoURI": "mongodb+srv://Angad:Applesauce0303%23@cluster0.vpcbg.mongodb.net/?retryWrites=true&w=majority"
+  "serverMongoURI": "mongodb+srv://[name]:[password]%23@cluster0.vpcbg.mongodb.net/?retryWrites=true&w=majority"
 }
