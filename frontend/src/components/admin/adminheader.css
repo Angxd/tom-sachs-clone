@@ -1,0 +1,109 @@
+.section-storeheader {
+   display: flex;
+   flex-direction: column;
+   padding-top: 15px;
+   margin: 0 55px 30px 55px;
+}
+
+.store-header {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.login {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.logout-btn {
+   border: none;
+   background-color: transparent;
+}
+
+.goStore {
+   text-decoration: none;
+   color: #666;
+}
+
+.user-info {
+   display: flex;
+   flex-direction: row;
+   padding: 10px 10px;
+   align-items: center;
+   justify-content: center;
+}
+
+.store-links {
+   text-decoration: none;
+   font-size: 12px;
+   text-align: center;
+}
+
+.store-main-nav {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   padding: 0px;
+   margin: 5px 0 0 -4px;
+}
+
+.store-nav-link {
+   margin-right: 26px;
+   color: black;
+   font-weight: 400;
+   padding: 2px;
+}
+
+.store-nav-link:link,
+.store-nav-link:visited {
+   display: inline-block;
+   text-decoration: none;
+   border-bottom: 1px rgb(255, 254, 253) solid;
+   transition: all 0.15s;
+   padding-bottom: 2px;
+}
+
+.store-nav-link:hover,
+.store-nav-link:active {
+   border-bottom: 1px #666 solid;
+   color: #777;
+}
+
+.container {
+   margin: 0px;
+
+}
+
+.logo {
+   display: block;
+}
+
+.logo-img {
+   width: 210px;
+   cursor: default;
+}
+
+.login {
+   color: #666;
+}
+
+.icon-logo {
+   color: #666;
+}
+
+.navbar-expand .navbar-nav .nav-link {
+   padding-left: 0;
+   padding-right: 0;
+}
+
+.icon-login:link,
+.icon-login:visited {
+   transition: all 0.15s;
+}
+
+.icon-login:hover,
+.icon-login:active {
+   fill: #444;
+}

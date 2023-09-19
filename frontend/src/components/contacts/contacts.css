@@ -1,0 +1,24 @@
+.section-contacts {
+   display: flex;
+   flex-direction: row;
+   margin: 30px 0 0 32px;
+   max-width: 800px;
+   font-size: 12px;
+   padding-bottom: 380px;
+}
+
+.row-one {
+   width: 180px;
+   margin-right: 70px;
+}
+
+.row-two {
+   margin-right: 70px;
+}
+
+.contact-info {
+   color: #000;
+   line-height: 1.2;
+   margin-bottom: 0;
+   font-weight: 500;
+}

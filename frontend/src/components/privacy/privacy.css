@@ -1,0 +1,44 @@
+.section-privacy {
+   display: flex;
+   flex-direction: column;
+   font-size: 13px;
+}
+
+.privacy-page-width {
+   margin: 35px 200px 30px 200px;
+   padding: 10px 65px 10px 65px;
+}
+
+.privacy-content {
+   justify-content: center;
+}
+
+.privacy-head {
+   font-size: 30px;
+   font-weight: 700;
+   color: #666;
+   margin-bottom: 50px;
+   text-align: center;
+}
+
+.privacy-links {
+   text-decoration: none;
+   color: #666;
+}
+
+.privacy-links:hover {
+   color: #999;
+}
+
+.underline {
+   border-bottom: 1px solid #666;
+}
+
+.general-info {
+   margin-bottom: 0px;
+   line-height: 1.5;
+}
+
+.margin-btm {
+   margin-bottom: 25px;
+}

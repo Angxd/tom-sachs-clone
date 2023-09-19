@@ -1,0 +1,40 @@
+.header-createAc {
+   text-align: center;
+   font-size: 35px;
+   font-weight: bold;
+   margin: 15px auto 20px auto;
+   color: #666;
+}
+
+.Ac-form {
+   display: flex;
+   flex-direction: column;
+   padding: 5px 350px;
+}
+
+.create-btn {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border: 1px solid #557b97;
+   border-radius: 3px;
+   margin: 0 auto 30px auto;
+   padding: 12px 20px;
+   font-weight: bold;
+   background-color: #557b97;
+   color: #fff;
+}
+
+.create-btn:hover {
+   color: #fff;
+   background-color: #324b5c;
+}
+
+.registration-success {
+   display: flex;
+   justify-content: center;
+   margin: auto;
+   padding: 12px 20px;
+   border-radius: 3px;
+   border: 1px solid green;
+}

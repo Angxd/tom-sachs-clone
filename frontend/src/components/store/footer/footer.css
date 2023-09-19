@@ -1,0 +1,31 @@
+.section-footer {
+   width: 100%;
+}
+
+.footer {
+   border-top: 1px solid #ddd;
+   padding-top: 40px;
+
+}
+
+.foot-text {
+   font-size: 12px;
+   color: #666;
+   margin-left: 155px;
+   margin-bottom: 40px;
+}
+
+.store-link {
+   text-decoration: none;
+   color: #666;
+}
+
+.store-link:link,
+.store-link:visited {
+   color: #666;
+}
+
+.store-link:hover,
+.store-link:active {
+   color: #999;
+}

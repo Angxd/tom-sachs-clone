@@ -1,0 +1,55 @@
+.section-notice {
+   display: flex;
+   flex-direction: column;
+   margin: 0 55px 0 55px;
+}
+
+.legacy {
+   display: block;
+   font-size: 13px;
+}
+
+.policy-link {
+   color: #666;
+}
+
+.policy-link:hover,
+.policy-link:active {
+   color: #444;
+}
+
+.legacy-left {
+   display: block;
+   padding-right: 55px;
+   float: left;
+   line-height: 19.5px;
+}
+
+.legacy-right {
+   display: flex;
+   float: right;
+}
+
+.btn-cart {
+   text-decoration: none;
+   color: #666;
+   display: flex;
+   gap: 9px;
+   align-items: center;
+}
+
+.btn-cart:link,
+.btn-cart:visited {
+   transition: all 0.15s;
+}
+
+.btn-cart:hover,
+.btn-cart:active {
+   color: #333;
+}
+
+.cart {
+   display: block;
+   height: 8px;
+   width: 9px;
+}

@@ -1,0 +1,36 @@
+.home-page {
+   display: flex;
+   flex-direction: column;
+   margin: 30px;
+   font-size: 12px;
+}
+
+.home-head {
+   margin: 30px 0 30px 0;
+   font-weight: 700;
+}
+
+.home-subhead {
+   line-height: 1px;
+}
+
+.home-subhead:last-child {
+   margin-bottom: 30px;
+
+}
+
+.home-links {
+   display: flex;
+   flex-direction: column;
+}
+
+.social-links {
+   text-decoration: none;
+   color: #000;
+   font-weight: 700;
+   padding-bottom: 3px;
+}
+
+.social-links:hover {
+   color: #555;
+}

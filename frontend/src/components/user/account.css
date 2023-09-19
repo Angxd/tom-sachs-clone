@@ -1,0 +1,76 @@
+.header-account {
+   font-size: 35px;
+   font-weight: bold;
+   color: #666;
+   margin: 15px auto 10px auto;
+   text-align: center;
+}
+
+.header-logOut {
+   display: flex;
+   font-size: 12px;
+   text-decoration: none;
+   color: #666;
+   align-items: center;
+   justify-content: center;
+}
+
+.logout-btn {
+   border: none;
+   background-color: transparent;
+}
+
+.goStore {
+   text-decoration: none;
+   color: #666;
+}
+
+.goStore:hover {
+   color: #333;
+}
+
+.account-cols {
+   justify-content: left;
+   margin: 50px 0px;
+   text-align: center;
+   color: #666;
+   gap: 100px;
+}
+
+.header-accountInfo {
+   font-weight: bold;
+   font-size: 15px;
+   letter-spacing: 1px;
+   margin-bottom: 20px;
+   /* position: relative;
+   left: -60px; */
+}
+
+.text-accountInfo {
+   margin-bottom: 5px;
+   font-size: 12px;
+   /* position: relative;
+   text-align: left;
+   left: 200px;
+ */
+}
+
+.address-btn {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border: 1px solid #557b97;
+   border-radius: 3px;
+   margin: 30px 200px 30px 200px;
+   padding: 12px 20px;
+   font-weight: bold;
+   background-color: #557b97;
+   color: #fff;
+   text-decoration: none;
+   letter-spacing: 1px;
+}
+
+.address-btn:hover {
+   color: #fff;
+   background-color: #324b5c;
+}
